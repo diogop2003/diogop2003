@@ -1,11 +1,10 @@
-<h2>Hello! I'm Yasmin, welcome to my Github profile! 👋🏼</h2>
+<h2>Hello! I'm Diogo, welcome to my Github profile! 👋🏼</h2>
 <h4>Full-Stack Web Developer</h4>
 <h5>Ruby on Rails</h5>
 
 * 📍 São Paulo, Brazil
 * 💻 Student at Le Wagon (9-week coding bootcamp) 
-* 📩 Contact: crisostomyasmin@gmail.com
-
+* 📩 Contact: diogoprado1511@gmail.com
 <h5><li>Skills:</li></h5>
 
 <p align="left">

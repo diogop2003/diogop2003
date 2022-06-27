@@ -9,7 +9,10 @@
 </ul>
 
 <h3 align="left">Skills</h3>
-<p><img height="30" width="40">https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white</img></p>
+<p align="left">
+<img align="center" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="30" width="40"/>
+</p>
+
 <h3 align="left">Social</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prado-diogo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prado-diogo/" height="30" width="40" /></a>

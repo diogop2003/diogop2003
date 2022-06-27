@@ -2,9 +2,10 @@
 <h2>Full Stack Web Developer</h2>
 
 <ul>
-  <li style='list-style: none;'>🏠 Living in Rio de Janeiro,BRA!</li>
-  <li style='list-style: none;'>📧 You can contact me in **diogoprado1511@gmail.com**</li>
-  <li style='list-style: none;'>💻 Full-Stack focus in Ruby on Rails</li>
+  <li>🏠 Living in Rio de Janeiro,BRA!</li>
+  <li>📧 You can contact me in **diogoprado1511@gmail.com**.</li>
+  <li>💻 Full-Stack focus in Ruby on Rails.</li>
+  <li>🌎 Speak English and Portuguese.</li>
 </ul>
 
 <h3 align="left">Social</h3>

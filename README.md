@@ -3,10 +3,12 @@
 
 <ul>
   <li>🏠 Living in Rio de Janeiro,BRA!</li>
-  <li>📧 You can contact me in **diogoprado1511@gmail.com**.</li>
+  <li>📧 You can contact me in: <strong>diogoprado1511@gmail.com</strong>.</li>
   <li>💻 Full-Stack focus in Ruby on Rails.</li>
   <li>🌎 Speak English and Portuguese.</li>
 </ul>
+
+<h3 align="left">Skills</h3>
 
 <h3 align="left">Social</h3>
 <p align="left">

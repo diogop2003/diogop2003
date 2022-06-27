@@ -10,7 +10,7 @@
 
 <h3 align="left">Skills</h3>
 <p align="left">
-<img align="center" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="30" width="40"/>
+<img align="center" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="100%" width="100%"/>
 </p>
 
 <h3 align="left">Social</h3>

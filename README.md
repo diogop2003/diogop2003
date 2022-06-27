@@ -9,7 +9,7 @@
 </ul>
 
 <h3 align="left">Skills</h3>
-<i class="devicon-rails-plain-wordmark colored"></i>
+<img <i class="devicon-rails-plain-wordmark colored"></i>/>
 
 <h3 align="left">Social</h3>
 <p align="left">

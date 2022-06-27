@@ -9,7 +9,7 @@
 </ul>
 
 <h3 align="left">Skills</h3>
-<img <i class="devicon-rails-plain-wordmark colored"></i>/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <h3 align="left">Social</h3>
 <p align="left">

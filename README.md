@@ -22,3 +22,4 @@
 <h3 align="left">Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=diogop2003&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diogop2003&layout=compact"/>
+.

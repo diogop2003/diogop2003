@@ -1,16 +1,14 @@
-<h1>Hi 👋, I'm Diogo Prado</h1>
-<h2>Full Stack Web Developer</h2>
+<h1>Olá 👋, sou o Diogo Prado</h1>
 
 <ul>
-  <li>🏠 Living in Rio de Janeiro,BRA!</li>
-  <li>📧 You can contact me in: <strong>diogoprado1511@gmail.com</strong>.</li>
-  <li>💻 Full-Stack focus in Ruby on Rails.</li>
-  <li>🌎 Speak English and Portuguese.</li>
+  <li>🏠 Rio de Janeiro,BRA!</li>
+  <li>📧 <strong>diogoprado1511@gmail.com</strong>.</li>
+  <li>💻 Desenvolvedor Full-Stack na <a href="https://www.planium.io" target="_blank">PLANIUM</a>.</li>
 </ul>
 <hr>
 <h3 align="left">Skills</h3>
 <p align="left">
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img src="https://skillicons.dev/icons?i=angular,tailwind,bootstrap,css,html,js,ts,rails" />
 </p>
 <hr>
 <h3 align="left">Social</h3>
